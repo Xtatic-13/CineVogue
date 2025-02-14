@@ -49,6 +49,7 @@ UI Preview:
   <img src="https://github.com/user-attachments/assets/ffb7af9a-fae5-4e9b-8c1f-e6f94112d568" width="250"/>
 </p>
 
+Note: You may use FrameBuddy Software from App Store for adding device frames to the simulator screenshots.
 
 🏗️ Roadmap
 🔹 Upcoming Features:
