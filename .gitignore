@@ -1,0 +1,15 @@
+# Ignore API keys and config files
+Config.xcconfig
+
+# Ignore macOS-specific files
+.DS_Store
+
+# Ignore Xcode-related files
+*.xcworkspace
+DerivedData/
+xcuserdata/
+
+# Ignore Swift Package Manager dependencies
+.swiftpm/
+Packages/
+
